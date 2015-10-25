@@ -1,0 +1,15 @@
+zad1
+a) {a^n b^3 | n>= 0}
+b) {a^n b^2k c^k d^3n | n>=0 oraz k>=0
+
+a)
+S -> aSbbb | abbb
+b)
+S -> aSddd
+S -> addd
+S -> A
+A -> bbAc
+A -> bbc
+A -> nic
+
+zad2
