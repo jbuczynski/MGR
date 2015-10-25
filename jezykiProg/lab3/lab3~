@@ -64,7 +64,5 @@ b)
 a)
 <s> -> a | a <S> | bb <s> | bb
 b)
-<s> -> a<d>
-<d> -> c <d> | d<d> | nic
-<s> -> bb<d>
+
 
